@@ -1,0 +1,5 @@
+nama = input("Masukkan nama lengkap kamu: ")
+nama_panggilan = input("Masukkan nama panggilan kamu: ")
+print("\nTerima kasih telah memperkenalkan diri!")
+print("Nama lengkap saya adalah:", nama)
+print("Kamu bisa memanggil saya:", nama_panggilan)
