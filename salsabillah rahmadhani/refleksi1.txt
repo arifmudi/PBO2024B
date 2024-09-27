@@ -1,0 +1,6 @@
+Q1: Apa hal baru yang kamu pelajari melalui lab ini?
+    :(saya belajar tentang codingan input pada nama dan lovemeter)
+Q2: Hal apa yang masih kamu sulit pahami?
+    :(case fenitive pada python)
+Q3: Berapa alokasi waktu kamu untuk mempelajari materi + lab minggu ini?
+    :(3 hari)

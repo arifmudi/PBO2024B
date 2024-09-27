@@ -1,0 +1,8 @@
+Q1 : Apa hal baru yang kamu pelajari melalui lab ini?
+A1 : Dasar-Dasar Sintaks: Memahami cara menulis variabel, tipe data seperti integer, string,float dan lai lain
+      -penggunaan elif,else dan if
+      -penggunan fungsi input
+Q2 : Hal apa yang masih kamu sulit pahami ?
+A2 : tipe data
+Q3 : Berapa alokasi waktu kamu untuk mempelajari materi minggu ini?
+A3 : 3-5 hari     
