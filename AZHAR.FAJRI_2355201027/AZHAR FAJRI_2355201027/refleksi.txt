@@ -1,6 +1,0 @@
-Q1: apa hal baru yang kamu pelajari dari lab ini
-    mempelajari tentang codingan dasar
-q2: hal apa yang masih sulit kamu paham
-    tentang lovemeter
-Q3: berapa alokasi waktu kamu untuk mempelajari materi+ lab minggu ini?
-    6 hari
