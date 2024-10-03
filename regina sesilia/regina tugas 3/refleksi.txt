@@ -1,0 +1,3 @@
+yang saya dapat dari tugas 3 ini konsep dasar OOP, dan char.lower.
+Hal yang sulit saya pahami pada tugas 3 ini adalah konsep dasar OOP.
+waktu saya membuat tugas ini adalah 5 hari. 
