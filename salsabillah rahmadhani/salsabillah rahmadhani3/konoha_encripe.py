@@ -1,9 +1,3 @@
-class Konoha:
-   # constructor    
-   def __init__(self, nama, angka):
-      self.nama = nama
-      self.angka = angka
-      
 def dekripsi(input_str):
     # Menjumlahkan semua huruf
     total_pergeseran = sum(int(char) for char in input_str if char.isdigit())  
