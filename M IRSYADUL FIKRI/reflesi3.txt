@@ -1,5 +1,0 @@
-Q1 :
-A1 :Apa yang anda dapatkan selama berada di labor ?
-   :Selama berada dilabor di pertemuan ke3 saya memiliki hal yang baru yang saya ketahui yaitu OOP
-   :Kemaren saya mengetahui pengertian dari OOP contohnya maunpun yng lain dan juga saya mengetahui perbedaan class atribut dan juga objek dalam pertemuan kemaren.
-   :Dan juga mengetahui perbedaan antra atribut dengan objek dan atribuk dengan contoh "CAR".
