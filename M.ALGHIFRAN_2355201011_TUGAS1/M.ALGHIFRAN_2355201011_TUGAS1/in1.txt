@@ -1,0 +1,9 @@
+... Isi dari berkas in1.txt sebelumnya ...
+###########
+Min: 4 karakter
+Max: 4 karakter
+Range: 0 karakter
+######## 
+Min: 12 karakter
+Max: 43 karakter
+Range: 31 karakter

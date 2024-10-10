@@ -1,0 +1,9 @@
+... Isi dari berkas arlian.txt sebelumnya ...
+###########
+Min: 0 karakter
+Max: 0 karakter
+Range: 0 karakter
+######## 
+Min: 12 karakter
+Max: 46 karakter
+Range: 34 karakter
