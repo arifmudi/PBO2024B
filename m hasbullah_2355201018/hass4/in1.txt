@@ -1,0 +1,9 @@
+nama saya m hasbullah 
+alamat desa ganting damai 
+kec. salo
+tgl lahir : 05 Desember 2004 
+hobi main voly
+###########
+Min: 9 karakter
+Max: 29 karakter
+Range: 20 karakter

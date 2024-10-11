@@ -1,0 +1,11 @@
+Jangan Pernah Meninggalkan Sholat
+Karena Sholat Tiang Agama
+
+###########
+Min: 0 karakter
+Max: 33 karakter
+Range: 33 karakter
+###########
+Min: 0 karakter
+Max: 33 karakter
+Range: 33 karakter
