@@ -1,0 +1,8 @@
+nama saya ardiansyah mulia 
+alamat desa sipungguk 
+kec. salo
+tgl lahir : 12 agustus 2003 
+###########
+Min: 9 karakter
+Max: 29 karakter
+Range: 20 karakter
