@@ -1,3 +1,4 @@
+#                            CF2                                                #
 class KeranjangCF2:
     def __init__(self, nama, kapasitas):
         self.nama = nama
