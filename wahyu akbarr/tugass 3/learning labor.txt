@@ -1,0 +1,74 @@
+1.OOP
+pengertian
+OOP, atau Pemrograman Berorientasi Objek, adalah paradigma pemrograman yang menggunakan "objek" untuk merepresentasikan data dan fungsi yang bekerja pada data tersebut.
+OOP mengorganisasi kode menjadi objek yang dapat berinteraksi satu sama lain, memudahkan pengelolaan dan pengembangan program yang kompleks.
+
+Perbedaan 
+   Perilaku setara dengan fungsi. Dalam kehidupan nyata, atribut dan perilaku tidak berdiri sendiri, 
+   melainkan saling terkait. Fitur terpenting dari pendekatan berorientasi objek adalah mendefinisikan 
+   atribut dan fungsionalitasnya sebagai satu unit tunggal yang disebut kelas. Kelas berfungsi sebagai 
+   cetak biru untuk semua objek yang memiliki atribut dan perilaku serupa.
+   Dalam OOP, kelas mendefinisikan atribut apa saja yang dimiliki objeknya, dan bagaimana perilakunya.
+   Di sisi lain, objek adalah contoh dari kelas.
+   Perbedaan OOP (Object-Oriented Programming) bisa dilihat dari berbagai aspek, baik di antara bahasa 
+   pemrograman maupun dalam konsep dasarnya. Berikut adalah beberapa perbedaan yang umum:
+    1. Konsep Dasar
+        Kelas dan Objek: Semua bahasa OOP menggunakan konsep kelas (template) dan objek (instansi dari 
+        kelas), tetapi cara mendefinisikan dan menggunakan keduanya bisa berbeda.
+        Enkapsulasi: Penyembunyian data dan metode di dalam objek. Di beberapa bahasa, akses ke data 
+        dapat dibatasi dengan lebih ketat dibandingkan yang lain.
+    2. Pewarisan
+        Pewarisan Tunggal vs. Berganda: Beberapa bahasa (seperti Java) hanya mendukung pewarisan tunggal, 
+        sementara Python dan C++ mendukung pewarisan berganda.
+    3. Polimorfisme
+        Static vs. Dynamic Polymorphism: Beberapa bahasa menggunakan polimorfisme statis (misalnya, 
+        overloading), sementara yang lain mengandalkan polimorfisme dinamis, di mana metode dipilih 
+        pada saat runtime.
+    4. Abstraksi
+        Abstract Classes dan Interfaces: Beberapa bahasa (seperti Java) memiliki konsep kelas abstrak
+        dan interface, sementara yang lain (seperti Python) menggunakan metode lain untuk mencapai hal yang sama.
+    5. Sintaksis
+        Sintaks yang Berbeda: Setiap bahasa memiliki sintaks yang unik untuk mendefinisikan kelas, metode, 
+        dan objek. Python, misalnya, memiliki sintaks yang lebih sederhana dibandingkan Java atau C++.
+3. Contoh
+   contohnya class:mobil, objek:toyota dan ford, atribut:properti dan metode
+4. Prinsip
+   Paradigma pemrograman berorientasi objek dicirikan oleh prinsip-prinsip berikut −
+    -Kelas
+    -Obyek
+    -Enkapsulasi
+    -Warisan
+    -Polimorfisme
+
+2.class,objek,atribut
+
+1. Kelas (Class)
+Kelas adalah cetak biru atau template yang digunakan untuk membuat objek. Kelas mendefinisikan atribut dan metode yang dimiliki oleh objek.
+
+Contoh:
+
+python
+Copy code
+class Mobil:
+    def __init__(self, merek, model):
+        self.merek = merek  # Atribut
+        self.model = model  # Atribut
+
+    def info(self):
+        return f"{self.merek} {self.model}"
+2. Objek (Object)
+Objek adalah instans dari kelas. Ketika kita membuat objek, kita menggunakan kelas sebagai template. Setiap objek dapat memiliki nilai atribut yang berbeda.
+
+Contoh:
+
+python
+Copy code
+mobil_saya = Mobil("Toyota", "Corolla")
+mobil_kamu = Mobil("Honda", "Civic")
+
+print(mobil_saya.info())  # Output: Toyota Corolla
+print(mobil_kamu.info())  # Output: Honda Civic
+3. Atribut (Attribute)
+Atribut adalah variabel yang terikat pada kelas. Atribut ini digunakan untuk menyimpan informasi tentang objek. Ada dua jenis atribut: atribut instance (spesifik untuk objek) dan atribut kelas (umum untuk semua objek dalam kelas).
+
+Contoh: Pada contoh di atas, merek dan model adalah atribut dari kelas Mobil. Masing-masing objek mobil_saya dan mobil_kamu memiliki nilai atribut yang berbeda.
