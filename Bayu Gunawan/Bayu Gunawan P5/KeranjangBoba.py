@@ -1,12 +1,11 @@
 #                               CF2                                     #
 class KeranjangCF2:
-    def __init__(self, nama, kapasitas):
+    def __init__(self, nama=None, kapasitas=None):
         self.nama = nama
         self.kapasitas = kapasitas
-
-class DekDepe:
-    def __init__(self):
         self.daftar_keranjang = []
+
+
 
     def beli(self, nama, kapasitas):
         # Menambahkan keranjang baru ke daftar.
@@ -58,7 +57,7 @@ class DekDepe:
         print(f"Total kapasitas keranjang Dek Depe adalah {total}")
 
 def main():
-    dek_depe = DekDepe()
+    dek_depe = KeranjangCF2()
     CF = int(input("Masukkan banyak operasi: "))
 
     for i in range(CF):
