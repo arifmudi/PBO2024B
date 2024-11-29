@@ -40,7 +40,7 @@ class Konoha:
         return ''.join(decrypted_letters)
 
 # Contoh penggunaan
-input_str = "w1d1a4"
+input_str = "4rd14n"
 decoder = Konoha(input_str)
 output = decoder.decrypt()
 print(output)
